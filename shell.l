@@ -7,8 +7,7 @@
 #include <string.h>
 #include <stdio.h>
 #include <unistd.h>
-#include "y.tab.h"
-#include "Command.h"
+
 
 //line editor code begins
 extern "C" char *read_line();
